@@ -1,0 +1,6 @@
+outs:
+- md5: 2f44b67f72726cc5c3c3f17dcb6fe8a4.dir
+  size: 1464
+  nfiles: 2
+  hash: md5
+  path: gene-sets
