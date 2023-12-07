@@ -1,2 +1,5 @@
 [core]
     analytics = false
+    remote = research
+['remote "research"']
+    url = ssh://research/data/bioinf-data
